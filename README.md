@@ -11,6 +11,10 @@ This project walks through building a Raspberry Pi 5 system that:
 3. Accepts manual control from the keyboard, manual yaw input from a Meta Quest 3S over UDP, and an auto tracking mode  
 4. Displays the video on screen, and streams the annotated video back to the headset over MJPEG for in-VR display. 
 
+
+Demo videos: \[[link](https://drive.google.com/drive/u/0/folders/1h98j5W_vXnf6YvJ9lZxpEqliyoAab54F)\]  
+Source code: \[[link](https://github.com/jackhuo-unc/PHYS231-Honors-Project)\]
+
 ---
 
 ## Bill of Materials
